@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import ServerContent from './ServerContent.vue'
+import ServerContent from './server/ServerContent.vue'
 
 Vue.component('app-server-content', ServerContent);
 

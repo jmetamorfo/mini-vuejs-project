@@ -13,8 +13,8 @@
 </template>
 
 <script>
-  import Footer from './Footer.vue'
-  import Header from './Header.vue'
+  import Footer from '../shared/Footer.vue'
+  import Header from '../shared/Header.vue'
   import Servers from './Servers.vue'
   import ServerDetail from './ServerDetail.vue'
   
